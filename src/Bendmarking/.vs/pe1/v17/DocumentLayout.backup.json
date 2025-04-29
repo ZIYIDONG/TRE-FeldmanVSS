@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|C:\\Users\\ZiyiDong\\Desktop\\codesss\\pemain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|solutionrelative:pemain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|C:\\Users\\ZiyiDong\\Desktop\\codesss\\miracl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|solutionrelative:miracl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|C:\\Users\\ZiyiDong\\Desktop\\codesss\\big.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|solutionrelative:big.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|C:\\Users\\ZiyiDong\\Desktop\\codesss\\big.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|solutionrelative:big.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|C:\\Users\\ZiyiDong\\Desktop\\codesss\\ecn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|solutionrelative:ecn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|C:\\Users\\ZiyiDong\\Desktop\\codesss\\zzn2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|solutionrelative:zzn2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|C:\\Users\\ZiyiDong\\Desktop\\codesss\\zzn2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|solutionrelative:zzn2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|C:\\Users\\ZiyiDong\\Desktop\\codesss\\ecn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3DAD612-51D4-41C6-96B8-3D8B80ABB87A}|pe1.vcxproj|solutionrelative:ecn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pemain.cpp",
+              "DocumentMoniker": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\pemain.cpp",
+              "RelativeDocumentMoniker": "pemain.cpp",
+              "ToolTip": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\pemain.cpp",
+              "RelativeToolTip": "pemain.cpp",
+              "ViewState": "AgIAAHEDAAAAAAAAAAAkwLoCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T13:37:35.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "big.cpp",
+              "DocumentMoniker": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\big.cpp",
+              "RelativeDocumentMoniker": "big.cpp",
+              "ToolTip": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\big.cpp",
+              "RelativeToolTip": "big.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T12:54:27.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ecn.cpp",
+              "DocumentMoniker": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\ecn.cpp",
+              "RelativeDocumentMoniker": "ecn.cpp",
+              "ToolTip": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\ecn.cpp",
+              "RelativeToolTip": "ecn.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T12:45:51.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "zzn2.h",
+              "DocumentMoniker": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\zzn2.h",
+              "RelativeDocumentMoniker": "zzn2.h",
+              "ToolTip": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\zzn2.h",
+              "RelativeToolTip": "zzn2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-26T12:43:29.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "zzn2.cpp",
+              "DocumentMoniker": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\zzn2.cpp",
+              "RelativeDocumentMoniker": "zzn2.cpp",
+              "ToolTip": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\zzn2.cpp",
+              "RelativeToolTip": "zzn2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T12:43:18.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "miracl.h",
+              "DocumentMoniker": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\miracl.h",
+              "RelativeDocumentMoniker": "miracl.h",
+              "ToolTip": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\miracl.h",
+              "RelativeToolTip": "miracl.h",
+              "ViewState": "AgIAAOQCAAAAAAAAAAAkwPMCAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-26T08:00:28.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ecn.h",
+              "DocumentMoniker": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\ecn.h",
+              "RelativeDocumentMoniker": "ecn.h",
+              "ToolTip": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\ecn.h",
+              "RelativeToolTip": "ecn.h",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-26T08:00:20.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "big.h",
+              "DocumentMoniker": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\big.h",
+              "RelativeDocumentMoniker": "big.h",
+              "ToolTip": "C:\\Users\\ZiyiDong\\Desktop\\codesss\\big.h",
+              "RelativeToolTip": "big.h",
+              "ViewState": "AgIAADYBAAAAAAAAAAAkwEUBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-26T07:57:48.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  test_sm4.cpp
+D:\cprogram\SM4\SM4\test_sm4.cpp(107,23): warning C4267: “+=”: 从“size_t”转换到“long”，可能丢失数据
+D:\cprogram\SM4\SM4\test_sm4.cpp(111,25): warning C4267: “初始化”: 从“size_t”转换到“uint8_t”，可能丢失数据
+  SM4.vcxproj -> D:\cprogram\SM4\x64\Debug\SM4.exe

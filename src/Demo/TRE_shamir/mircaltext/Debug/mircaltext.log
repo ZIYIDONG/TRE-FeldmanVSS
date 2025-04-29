@@ -1,0 +1,5 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(mircaltext.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  TRE_shamir.cpp
+D:\cprogram\TRE_shamir\mircaltext\TRE_shamir.cpp(207,22): warning C4129: “C：: 不可识别的字符转义序列
+D:\cprogram\TRE_shamir\mircaltext\TRE_shamir.cpp(249,12): warning C4101: “j”: 未引用的局部变量
+  mircaltext.vcxproj -> D:\cprogram\TRE_shamir\Debug\TRE_shamir.exe

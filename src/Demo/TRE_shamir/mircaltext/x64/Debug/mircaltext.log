@@ -1,0 +1,5 @@
+﻿  text.cpp
+D:\cprogram\mircaltext\mircaltext\text.cpp(163,12): warning C4101: “j”: 未引用的局部变量
+D:\cprogram\mircaltext\mircaltext\text.cpp(245,5): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  zzn2.cpp
+  正在生成代码...
